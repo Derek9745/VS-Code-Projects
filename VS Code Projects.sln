@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceGame", "DiceGame\DiceGame.csproj", "{B7976B71-EB10-4666-A76C-4130AF195786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorConsoleApp", "CalculatorConsoleApp\CalculatorConsoleApp.csproj", "{87D24C79-8BE9-41E8-A77C-E02511F2984A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7976B71-EB10-4666-A76C-4130AF195786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7976B71-EB10-4666-A76C-4130AF195786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7976B71-EB10-4666-A76C-4130AF195786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7976B71-EB10-4666-A76C-4130AF195786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D24C79-8BE9-41E8-A77C-E02511F2984A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D24C79-8BE9-41E8-A77C-E02511F2984A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D24C79-8BE9-41E8-A77C-E02511F2984A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D24C79-8BE9-41E8-A77C-E02511F2984A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0464B395-386D-41E6-9F3A-394A0CDCF50A}
+	EndGlobalSection
+EndGlobal
